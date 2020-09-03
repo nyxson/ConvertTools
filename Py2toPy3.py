@@ -13,4 +13,4 @@ def py2_to_py3(path):
     print(Filelist)
     return Filelist
 
-py2_to_py3(r'E:\Profile\download\testbench-master')
+py2_to_py3(r'E:\Profile\download\test')
